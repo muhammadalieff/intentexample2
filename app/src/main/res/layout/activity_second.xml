@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context=".SecondActivity">
+    tools:context="muhammadalief.com.example.intentexample2.SecondActivity">
     <TextView
         android:id="@+id/textView"
         android:layout_width="324dp"
